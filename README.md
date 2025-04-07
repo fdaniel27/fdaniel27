@@ -1,32 +1,56 @@
-<!-- Imagem superior estilizada -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20World!&fontColor=ffffff&fontSize=40&desc=Seja%20bem-vindo%20ao%20meu%20GitHub&descAlignY=70" />
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" />  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou o Daniel
 
-  <h1>Fala aí! Eu sou o Daniel 👨🏾‍💻</h1>
-
-  <p>Estudante de Ciência da Computação no 3º período da <strong>Cesar School</strong>, apaixonado por tecnologia, código e resolver problemas com criatividade.</p>
-  
-  <p>Atualmente aprendendo mais sobre desenvolvimento web, lógica de programação e tudo que envolve transformar ideias em software! 🚀</p>
+🎓 Estudante de Ciência da Computação — 3º período na **Cesar School**  
+💡 Apaixonado por tecnologia, aprendizado constante e desenvolvimento de soluções com código  
+🧠 Explorando o universo da programação, lógica, e desenvolvimento web  
 
 </div>
 
 ---
 
-### 🛠️ Tecnologias que estou estudando:
-- HTML, CSS, JavaScript
-- C, Python
-- Git & GitHub
-- Fundamentos de algoritmos e estruturas de dados
+<div align="center">
+  <a href="https://github.com/fdaniel27">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&theme=react&hide_border=false&layout=compact"/>
+  </a>
+</div>
 
 ---
 
-### 📫 Como me encontrar:
-- [LinkedIn](www.linkedin.com/in/daniel-ferreira-alves-a9526b286) 
-- [Email](ferreiraalvesdaniel@htmail.com) 
+### 🚀 Tecnologias & Ferramentas
+
+<div style="display: inline_block" align="center"><br>
+  <img alt="Daniel-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
+  <img alt="Daniel-Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img alt="Daniel-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img alt="Daniel-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img alt="Daniel-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+  <img alt="Daniel-Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+  <img alt="Daniel-GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+</div>
+
 ---
 
-<!-- Imagem final estilizada opcional -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+### 📫 Vamos nos conectar
+
+<div align="center"> 
+  <a href="www.linkedin.com/in/daniel-ferreira-alves-a9526b286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:ferreiraalvesdaniel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+<!-- Snake Animation -->
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario-aqui/seu-usuario-aqui/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario-aqui/seu-usuario-aqui/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-usuario-aqui/seu-usuario-aqui/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
