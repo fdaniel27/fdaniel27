@@ -14,10 +14,15 @@
 ---
 
 <div align="center">
-  <a href="[https://github.com/fdaniel27](https://github.com/fdaniel27)">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&theme=react&hide_border=false&layout=compact"/>
-  </a>
+  <a href="https://github.com/fdaniel27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdaniel27&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdaniel27&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/fdaniel27/count.svg" /></p> 
+  <br>
 </div>
 
 ---
