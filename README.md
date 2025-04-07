@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/fdaniel27">
+  <a href="[https://github.com/fdaniel27](https://github.com/fdaniel27)">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&theme=react&hide_border=false&layout=compact"/>
   </a>
