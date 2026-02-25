@@ -5,7 +5,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Daniel
 
-🎓 Estudante de Ciência da Computação — **Cesar School**  
+🎓 Estudante de Segurança da Informação — **Cesar School**  
 💡 Apaixonado por tecnologia, aprendizado constante e desenvolvimento de soluções com código  
 🧠 Explorando o universo da programação, lógica, e desenvolvimento web  
 
