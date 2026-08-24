@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  # Executa automaticamente todos os dias
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permite executar manualmente
+  workflow_dispatch:
+
+  # Executa quando houver alteração neste workflow
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: fdaniel27
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
