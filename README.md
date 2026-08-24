@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Hello, world! Eu sou Daniel
+# 👋 Hello, world! Eu sou Daniel!
 
 ### 🛡️ Estudante de Segurança da Informação | Desenvolvedor | Entusiasta de Cibersegurança
 
