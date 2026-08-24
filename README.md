@@ -162,7 +162,7 @@ Meu foco atual está no desenvolvimento de habilidades voltadas para **Seguranç
 
 <div align="center">
 
-### 💭 "Sempre aprendendo. Sempre construindo."
+### Sempre aprendendo. Sempre construindo.
 
 </div>
 
